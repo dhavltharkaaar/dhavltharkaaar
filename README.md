@@ -52,6 +52,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 ### Tools
-![Windows](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/windows.svg)
-![Edge](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/microsoftedge.svg)
-![Sublime Text](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/sublime.svg)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublimetext&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Edge-0078D7?logo=microsoftedge&logoColor=white)
