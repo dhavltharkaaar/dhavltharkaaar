@@ -8,7 +8,7 @@
 - 😄 Pronouns: Dhaval Tharkar
 
 ### Connect with Me :
-[![Gmail](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/gmail.svg)](mailto:dhavltharkaaar1699@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dhavltharkaaar1699@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dhavltharkaaar1699@gmail.com)
 [![Website](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)](https://prakashdeveloper03.github.io/)
 
 ---
@@ -55,15 +55,3 @@
 ![Windows](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/windows.svg)
 ![Edge](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/microsoftedge.svg)
 ![Sublime Text](https://raw.githubusercontent.com/dhavltharkaar/dhavltharkaar/main/images/sublime.svg)
-
-
-## Github Profile Statistics
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavltharkaar)](https://github.com/dhavltharkaar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=dhavltharkaar&theme=default)](https://git.io/streak-stats)
-
-### Languages Stats
-
-[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavltharkaar&layout=compact&hide=jupyter%20notebook,hack)](https://github.com/dhavltharkaar/github-readme-stats)
-
-### GitHub Contribution Graph
-
-[![Dhaval's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavltharkaar&theme=dracula)](https://github.com/dhavltharkaar/github-readme-activity-graph)
