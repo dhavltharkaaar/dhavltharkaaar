@@ -59,7 +59,7 @@
 ### Statistics and Languages:
 
 ## Github Profile Statistics
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavltharkaaar)](https://github.com/dhavltharkaaar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats)
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavltharkaaar)](https://github.com/dhavltharkaaar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=dhavltharkaaar&theme=default)](https://git.io/streak-stats)
 
 ### Languages Stats
 
