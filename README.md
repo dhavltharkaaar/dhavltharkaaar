@@ -55,3 +55,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublimetext&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Edge-0078D7?logo=microsoftedge&logoColor=white)
+
+### Statistics and Languages:
+
+## Github Profile Statistics
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhavltharkaaar)](https://github.com/dhavltharkaaar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats)
+
+### Languages Stats
+
+[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavltharkaaar&layout=compact&hide=jupyter%20notebook,hack)](https://github.com/dhavltharkaaar/github-readme-stats)
+
+### GitHub Contribution Graph
+
+[![Dhaval's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhavltharkaaar&theme=dracula)](https://github.com/dhavltharkaaar/github-readme-activity-graph)
