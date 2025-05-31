@@ -9,7 +9,7 @@
 
 ### Connect with Me :
 [![Gmail](https://img.shields.io/badge/Gmail-dhavltharkaaar1699@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dhavltharkaaar1699@gmail.com)
-[![Website](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)](https://prakashdeveloper03.github.io/)
+[![Website](https://img.shields.io/badge/Website-202020?logo=About.me&logoColor=white)]()
 
 ---
 
