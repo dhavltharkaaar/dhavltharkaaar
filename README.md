@@ -7,6 +7,17 @@
 - 🤔 I’m looking for jobs as Freshers in Data Science Domain. 
 - 😄 Pronouns: Dhaval Tharkar
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-Welcome-white?style=flat&logo=github&color=3ce3cf" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/Name-Dhavltharkaaar-white?color=3ce3ce" alt="name">
+  <img src="https://img.shields.io/badge/Age-25-3ce3ce" alt="age">
+  <img src="https://img.shields.io/badge/Focus-Data_Science-3ce3ce" alt="focus">
+  <img src="https://img.shields.io/badge/Living-Thane-3ce3ce" alt="living">
+  <img src="https://komarev.com/ghpvc/?username=dhavltharkaaar&labelColor=black&label=Profile+Views&color=3ce3ce" alt="Visitors count">
+  <img src="https://img.shields.io/github/last-commit/dhavltharkaaar/dhavltharkaaar?logo=markdown&label=Last+Update&color=3ce3ce" alt="Last Commit">
+</p>
+
+
 ### Connect with Me :
 
 [![Gmail](https://img.shields.io/badge/Gmail-dhavltharkaaar1699@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dhavltharkaaar1699@gmail.com)
