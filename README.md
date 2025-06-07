@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DTs-Welcome-white?style=flat&logo=github&color=87CEEB" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Name-Dhavltharkaaar-white?color=87CEEB" alt="name">
-  <img src="https://img.shields.io/badge/Age-25-87CEEB" alt="age">
   <img src="https://img.shields.io/badge/Focus-Data_Science-87CEEB" alt="focus">
   <img src="https://img.shields.io/badge/Living-Thane-87CEEB" alt="living">
   <img src="https://komarev.com/ghpvc/?username=dhavltharkaaar&labelColor=black&label=Profile+Views&color=87CEEB" alt="Visitors count">
